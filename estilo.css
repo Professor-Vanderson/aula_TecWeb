@@ -1,0 +1,28 @@
+body{
+    background: #FF8C00;
+}
+
+p.esquerda{
+    text-align: left;
+    color:crimson;
+}
+.formato2{
+    color: deeppink;
+    text-align: center;
+    font-family: 'Courier New';
+} 
+h1,h2,h3,p{
+    color:beige;
+
+}
+h4,h5,h6{
+    color:green;
+}
+
+a:visited{
+    color:silver;
+}
+a:hover{
+    color:firebrick;
+    font-size: 135%;
+}
